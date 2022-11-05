@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<params>
+<param>
+ <value>
+  <array>
+   <data>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Twinings' Holiday Teas - 4 Pack</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$14.96</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;Twinings is delighted to offer these special edition designs to celebrate the holiday season. Available as a pack of 4, you'll receive Twinings' Christmas Tea, Winter Spice, and new Peppermint Cheer, and Gingerbread Joy tea bags. Each flavor comes in a 20 count box and are sure to fill you with holiday cheer .&#60;/p&#62;&#10;&#60;p&#62;Each box features festive holiday graphics on each box, of 20 tea bags, as well as the inner tea bags. Whether you are entertaining guests or taking a moment for yourself, each holiday blend from Twinings will awaken your holiday spirit.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Net Weight (per box):&#60;/strong&#62; 1.41 ounces (40 grams)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62; &#60;li&#62;&#10;&#60;strong&#62;Christmas Tea:&#60;/strong&#62; Black tea, Artificial Flavourings&#60;/li&#62;    &#60;li&#62;&#10;&#60;strong&#62;Winter Spice Herbal:&#60;/strong&#62; Camomile, Natural Apple Flavour with Other Natural Flavours, Cinnamon, Cardamom, Clove&#60;/li&#62; &#60;li&#62;&#10;&#60;strong&#62;&#60;em&#62;New Flavor!&#60;/em&#62; Peppermint Cheer:&#60;/strong&#62;Peppermint, Natural Mint Flavour, Natural Flavour Vanilla Type&#60;/li&#62;  &#60;li&#62;&#10;&#60;strong&#62; Gingerbread Joy :&#60;/strong&#62;Black Tea, Ginger, Natural Flavour, Cinnamon, Natural Ginger Flavour with Other Natural Flavours.&#60;/li&#62;&#10;&#60;/ul&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>1.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>20ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced, Mint, Mixed Berry, Peppermint</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Assortments, Black Tea, Christmas Tea, Flavored Black Tea, Mint Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Twinings</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Ahmad Tea London Bus Tin - 20 Tea Bags</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$6.80</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;This London Bus Tin features Ahmad's delicious English Breakfast blend, a full-bodied blend of malty Assam, bright Ceylon and robust Kenyan teas.The teas are packaged in an airtight tin that can be reused for storing tea, spices and dried herbs.&#60;/p&#62;&#10;&#60;p&#62;Brought in from England for the holidays. Each tin contains 20 tea bags&#60;/p&#62;&#10;&#60;p&#62;Net weight: 1.76 ounces (50 grams)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>2.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>25ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>British Favorites, Black Tea, Breakfast Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>English Breakfast</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Ahmad</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Ahmad Tea London Experience Tin- 3 Loose Leaf Tea Caddies</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$11.10</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;These collections of embossed mini caddies feature London landmarks. The gift set includes three classic loose leaf black teas: English Breakfast, Earl Grey, and our popular English Afternoon&#60;/p&#62;&#10;&#60;p&#62;Brought in from England for the holidays. Each tin contains  loose leaf tea&#60;/p&#62;&#10;&#60;p&#62;Net weight: .88 ounces (25 grams)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>3.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>25ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>English Afternoon</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Afternoon Tea, British Favorites, Christmas Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Ahmad</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Holiday Tea Bag Sampler Set</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$11.29</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;This holiday loose tea sampler set will make a great gift for any tea lover! It includes six 1 oz containers that contain 5 teabags of delicious holiday themed tea in the cutest little decorated containers. This is the perfect way to spread love this holiday season. &#60;/p&#62;&#10;&#60;p&#62;Teas include: Candy Cane, Pumpkin Spice, Candy Apple, Gingerbread, Chestnut, and Cranberry. Tins measure 2 5/8&#34; x 1 3/4&#34;&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>4.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United States</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Adagio</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Swiss Hot Chocolate Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$6.58 - $21.07</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62;&#10;&#60;p&#62;The Swiss Hot Chocolate Flavored Black Tea blend from English Tea Store is a delightful blend of high grown Ceylon tea, real rich cocoa beans and white camomile petals for an added floral lift.&#60;/p&#62;&#10;&#60;p&#62;The 3 high-grown districts of Sri Lanka, Nuwara Eliya, Dimbula and Uva, produce flavorful teas that have the classic &#34;Ceylon&#34; tea character which is noted by floral bouquet and flavor notes, touches of mild astringency, bright coppery color and, most importantly, perfect for use as the base tea of our flavored teas. Dimbula and the western estates of Nuwara Eliya have a major quality peak during Jan/Feb, whereas Uva and the eastern estates of Nuwara Eliya have their peak in July/Aug. This &#34;peak period&#34; allows us to buy the best for our flavored tea blends several times during the year, ensuring top quality and freshness. Using flavoring oils, not crystals, gives the tea drinker an olfactory holiday before indulging in a liquid tea treat.&#60;/p&#62; &#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; Black tea, Cocoa, Camomile petals, Natural flavors (Organic Compliant).&#60;/p&#62; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Available in 3 sizes (Please select from the options above):&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#10;&#60;p style=&#34;color:#a5261d;&#34;&#62;&#60;strong&#62;First time trying English Tea Store's Swiss Hot Chocolate Flavored Black Loose Leaf Tea? &#60;/strong&#62;&#60;/p&#62; &#60;a href=&#34;/swiss-hot-chocolate-flavored-black-tea-loose-leaf-sampler-size.html&#34;&#62; Try our Sample Size of 1 ounce.&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 4 ounces&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 16 ounces (1 pound)&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Medium - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of black tea steeped in boiled water for 5 minutes will contain between 27 to 35 milligrams of caffeine. An equal sized cup of coffee will contain between 80 - 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - polyphenols by dry weight. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>5.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>Sri Lanka</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Chocolate</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Peppermint Matcha Green Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$8.08 - $30.92</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;The Peppermint Matcha Green Tea blend from English Tea Store is a smooth, astringent powdered green tea mixed with aromatic layers of mint.  According  to  health  folklore  dating  back  to  at  least  the  time  of  Pliny,  people  have  long  been consuming  peppermint  to help combat  a  variety of ailments including  nausea, abdominal  pain,  fatigue  and  more.&#60;/p&#62;&#10;&#60;p&#62;  In  many  ways,  Matcha  produces  a  similar  effect.  Originally  produced  as  the  key  component  of  the  Japanese  tea  ceremony, Matchas were designed to instill a feeling of calm serenity when enjoyed. The rigid structure of the ceremony it featured in was designed to spiritually transport the  drinker from the  general  hustle and bustle of life  to a  place of quiet serenity.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Hot tea brewing method:&#60;/strong&#62; Bring filtered or freshly drawn water to a rolling boil and let cool to roughly 180F/82C. Place approximately half a teaspoon of Peppermint Matcha in your cup. Infuse with 8 ounces/250 milliliter of water, whisk briskly and enjoy.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ceremonial Matcha:&#60;/strong&#62; Please note that in order to brew Ceremonial Matcha you will need a set of Japanese tea ceremony tools. (Bowls, scoops, and a whisk).&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;Prepare tea bowls by warming them with boiled water&#60;/li&#62;&#10;&#60;li&#62; Prepare your Peppermint Matcha whisk by soaking the tip in the boiled water in one of the bowls for about 10 seconds&#60;/li&#62;&#10;&#60;li&#62; Pour the water out and dry the bowl with a paper towel&#60;/li&#62;&#10;&#60;li&#62; Using your teaspoon, add 2 scoops of Peppermint Matcha to each bowl&#60;/li&#62;&#10;&#60;li&#62; Pour 1/3 of a cup of your hot water into each bowl&#60;/li&#62;&#10;&#60;li&#62; In a slow â€œmâ€? motion, submerge any loose bits of Peppermint Matcha that may be floating on the surface of the tea&#60;/li&#62;&#10;&#60;li&#62; Whisk the tea more briskly in a back and forth motion until the surface of the Peppermint Matcha becomes frothy&#60;/li&#62;&#10;&#60;li&#62; Consume immediately. (In Japan, it is customary to drink the entire bowl in 3 quick slurps)&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Hot matcha latte brewing methods - fast method:&#60;/strong&#62; Use 1/2 teaspoon (1 gram) per 8 ounce (225 milliliter) serving. Add 1/2 teaspoon (1 gram) to base of cup and add 2 ounces of hot water &#38;amp; mix vigorously to make a smooth paste-like liquid. Top with freshly steamed milk (or substitute) and sweeten to taste. (Try maple syrup or honey)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Iced matcha latte brewing methods:&#60;/strong&#62; Use 1/2 teaspoon (1 gram) per 8 ounce (225 millliliter) serving. Add 1/2 teaspoon (1 gram) to base of cup and add 2 ounces of hot water and mix vigorously to make a smooth paste-like liquid. Top with freshly steamed milk (or substitute) and sweeten to taste. Cool for 30-60 minutes and pour over ice.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Slow brewed Iced Matcha: Place 3 level teaspoons of Peppermint Matcha into a glass pitcher. Fill pitcher with ice and let sit. After a few hours, ice will have melted and tea brewed. Stir vigorously to ensure the Peppermint Matcha goes into suspension. Pour over ice and enjoy.&#60;/strong&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Matcha Ginger Tea with crushed ice and lime:&#60;/strong&#62; (Ingredients â€“ 2 level teaspoons of Peppermint Matcha, 2 tablespoons of chopped ginger, 1/2 cup ice, juice of 1/2 lime, dash of honey)&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62; Blend ice, Peppermint Matcha and ginger in a blender until ice is crushed&#60;/li&#62;&#10;&#60;li&#62; Pour into a chilled glass&#60;/li&#62;&#10;&#60;li&#62; Add lime juice and honey to taste&#60;/li&#62;&#10;&#60;br&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;You will need a few items to prepare Peppermint Matcha Lattes:&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;Matcha measure or tea spoon&#60;/li&#62;&#10;&#60;li&#62; 16 ounce stainless steel carafe&#60;/li&#62;&#10;&#60;li&#62; Espresso maker&#60;/li&#62;&#10;&#60;li&#62; Peppermint Matcha&#60;/li&#62;&#10;&#60;li&#62; Flavoring syrup&#60;/li&#62;&#10;&#60;li&#62; Milk 2% (Almond, soy or rice milk)&#60;/li&#62;&#10;&#60;li&#62; Long stir spoon&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;To start, measure  approximately 15 ounces  (450 milliliters) of  milk  into  stainless  steel  carafe.  Add  1  teaspoon  or  2  matcha  measures  of Peppermint Matcha. Stir with long spoon to combine with milk. Add 1 ounce (30 milliliter) of flavoring syrup. Froth vigorously with frothing wand from espresso machine. When blend is smooth with micro bubbles, pour into cup. You may substitute 2 tablespoons of either Maple syrup, Agave syrup or Honey for the flavoring syrup to taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Available in 3 sizes (Please select from the options above):&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#10;&#60;p style=&#34;color:#a5261d;&#34;&#62;&#60;strong&#62;First time trying English Tea Store's  Peppermint Matcha Green Loose Leaf Tea? &#60;/strong&#62;&#60;/p&#62; &#60;a href=&#34;/peppermint-matcha-green-loose-leaf-tea-sampler.html&#34;&#62; Try our Sample Size of 1 ounce.&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 2 ounces&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 8 ounces&#60;/li&#62;&#10;&#60;br&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Low - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of green tea steeped in boiled water for 5 minutes will contain between 22 to 29 milligrams of caffeine. An equal sized cup of coffee will contain between 80 â€“ 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - When consuming matcha you actually consume all the tea leaves. Scientific testing in Japan has indicated that on account of this fact the antioxidant benefit of matcha can be up to 5-9 greater then with normal green tea consumed in the conventional manner.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>6.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Mint, Peppermint</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Flavored Green Tea, Green Tea, Matcha Tea, Mint Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Vienna Egg Nog Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$6.02 - $19.82</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62;&#10;&#60;p&#62;The Vienna Egg Nog Flavored Black Tea blend from English Tea Store is based on the rum-based versions of the early Americas. Delightfully sweet with notes of caramel and ginger, this blend is delicious on it's own, or with a splash of real rum.&#60;/p&#62;&#10;&#60;p&#62;Eggnog, the popular spiced, milk-based holiday beverage is thought to descend from an ancient European drink called Posset. The drink was made by boiling milk and adding wine or ale, which would cause it to curdle. Spices, typically nutmeg and cinnamon were then added to fill out the flavor.&#60;/p&#62;&#10;&#60;p&#62; During the Middle Ages, Posset was generally consumed to as a remedy for the common cold and to ease general bodily aches and pains. By the 13th century, it is said that monks began adding eggs to their Posset, an innovation that would ultimately lead to the creation of Eggnog, centuries later.&#60;/p&#62;&#10;&#60;p&#62;During the 18th century, a variation of the drink is thought to have crossed the Atlantic to what were then still British Colonies in the Americas. Initially, cheap Rum from the Caribbean was used to prepare the beverage. After the Revolutionary War however, with their supply of Rum cut off, American's blending Eggnog with whiskey and bourbon. Around this time it also came to be associated with the holidays, a tradition that continues to this day.&#60;/p&#62;&#10;&#60;p&#62;The Vienna Egg Nog Flavored Black Tea is gluten free.&#60;/p&#62; &#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62;Black tea, Cinnamon + Ginger pieces, Clove, Natural flavors (Organic Compliant).&#60;/p&#62; &#10;&#60;p&#62;&#60;strong&#62;Available in 3 sizes (Please select from the options above):&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#10;&#60;p style=&#34;color:#a5261d;&#34;&#62;&#60;strong&#62;First time trying English Tea Store's Vienna Egg Nog Flavored Black Loose Leaf Tea? &#60;/strong&#62;&#60;/p&#62; &#60;a href=&#34;/vienna-egg-nog-flavored-black-loose-leaf-sampler-size.html&#34;&#62; Try our Sample Size of 1 ounce.&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 4 ounces&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 16 ounces (1 pound)&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Medium - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of black tea steeped in boiled water for 5 minutes will contain between 27 to 35 milligrams of caffeine. An equal sized cup of coffee will contain between 80 - 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - polyphenols by dry weight. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>7.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>Sri Lanka</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Caramel, Cinnamon, Ginger</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Christmas Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Holiday Spiced Flavored Black Tea - Tea Bags</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$7.38 - $26.49</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;The Holiday Spiced Flavored Black Tea from English Tea Store is a quality blend combing a refreshing, medium black tea with the natural flavors of cinnamon, orange, and clove. A favorite of many of our customers, our Holiday Spiced is available year-round. Try it with a little sugar and milk for a wonderful taste experience. Our teabags are English style without strings or tags. &#60;/p&#62;&#10;&#60;p&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Available in 5 sizes (Please select from the options above):&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#10;&#60;p style=&#34;color:#a5261d;&#34;&#62;&#60;strong&#62;First time trying English Tea Store's Holiday Spiced Flavored Black Tea? &#60;/strong&#62;&#60;/p&#62; &#60;a href=&#34;/tea-flavored-black-pouch-5-teabags-holiday-spice.html&#34;&#62; Try our Sample Size of 5 teabags.&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;Contents 25 tea bags pouch net weight 2.75 ounce&#60;/li&#62;&#10;&#60;li&#62;Contents 25 tea bags tin net weight 2.75 ounce&#60;/li&#62;&#10;&#60;li&#62;Contents 50 tea bags pouch net weight 5.5 ounce&#60;/li&#62;&#10;&#60;li&#62;Contents 100 tea bags pouch net weight 11 ounce&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; Black Tea, Cinnamon, Cloves, Orange Flavor&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>8.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>25ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Christmas Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Holiday Spiced Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$3.94 - $12.62</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;The Holiday Spiced Flavored Black Tea from English Tea Store is a quality, fine grain, blend combing a refreshing, medium black tea with the natural flavors of cinnamon, orange, and clove.  A favorite of many of our customers, our Holiday Spiced is available year-round. Try it with a little sugar and milk for a wonderful taste experience&#60;/p&#62;&#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Available in 4 sizes (Please select from the options above):&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#10;&#60;p style=&#34;color:#a5261d;&#34;&#62;&#60;strong&#62;First time trying English Tea Store's Holiday Spiced Flavored Black Loose Leaf Tea? &#60;/strong&#62;&#60;/p&#62; &#60;a href=&#34;/flbltealolet-1oz.html&#34;&#62; Try our Sample Size of 1 ounce.&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 4 ounces&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 8 ounces (.5 pound)&#60;/li&#62;&#10;&#60;li&#62;Contents loose leaf tea net weight 16 ounces (1  pound)&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; Black Tea, Cinnamon, Cloves, Orange Flavor&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>9.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Christmas Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Tea Chests with Tea - Twinings' Holiday Selections</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$48.99 - $55.50</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;This Tea Chest Includes 8 different types of individually wrapped Twinings' teabags (10 tea bags per flavor). Choose your desired tea chest finish: cherry finish, dark cherry finish, black cherry finish, or a standard light finish.&#60;/p&#62;&#10;&#10;&#60;p&#62;You also have your choice of a US made tea chest (with the front slide button) or an imported tea chest (with the front swing latch). Very similar in styles, the USA Made tea chests are made from a higher quality solid maple wood than our imported chest (made from pine wood).&#60;/p&#62;&#10;&#10;&#60;p&#62;&#60;strong&#62;This Tea Chest Includes:&#60;/strong&#62;&#60;/p&#62;&#10;&#10;&#60;ul&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-christmas-tea-20-teabags.html&#34;&#62;Christmas Tea&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-herbal-tea-winter-spice.html&#34;&#62;Winter Spice Herbal&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twvatea25tea.html&#34;&#62;French Vanilla Chai &#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-orange-cinnamon-spice-herbal-tea.html&#34;&#62;Orange &#38;amp; Cinnamon Spice Herbal&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-herbal-tea-peppermint-cheer.html&#34;&#62;Peppermint Cheer&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-chai-tea-pumpkin-spice.html&#34;&#62;Pumpkin Spice Chai&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-cinnamon-apple-breakfast-20-tea-bags.html&#34;&#62;Spiced Apple Chai&#60;/a&#62;&#60;/li&#62;&#10;  &#60;li&#62;&#60;a href=&#34;/twinings-tea-gingerbread-joy-20ct.html&#34;&#62;Gingerbread Joy&#60;/a&#62;&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#10;&#60;p&#62;&#60;strong&#62;Please note:&#60;/strong&#62; Substitution may occur according to availability.&#60;/p&#62;&#10;&#10;&#60;p&#62;We also offer &#60;a href=&#34;/emptyteachests.html&#34;&#62;empty tea chests&#60;/a&#62; for you to fill with your favorite teas.&#60;/p&#62;&#10;&#10;&#60;p&#62;Choose a &#60;a href=&#34;/engraving-plates.html&#34;&#62;brass engraving plate&#60;/a&#62; to personalize the chest. Call for special pricing for larger orders.&#60;/p&#62;&#10;&#10;&#60;p&#62;&#60;strong&#62;Tea Chest Dimensions:&#60;/strong&#62; 12.5&#34; Length, 2.375&#34; Depth, 3.5&#34; Height, 8&#34; Width&#60;/p&#62;&#10;&#10;&#60;p&#62;Compartment dimensions are 2.75&#34; W x 3.5&#34; L&#60;/p&#62;&#10;&#10;&#60;p&#62;&#60;strong&#62;Attention:&#60;/strong&#62; We are in the process of changing the latches on the tea chests. You may receive the one pictured or a new one with the hidden magnetic closure. Thanks for understanding during this transitional period.&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>10.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Chests</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Filled, Standard</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Twinings</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Tea Chests with Tea - Twinings' Chai Selections</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$48.99 - $55.50</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;Twinings' Chai Tea Chest includes 6 different types of individually wrapped Twinings' teabags (10 tea bags per flavor). Choose your desired tea chest finish: cherry finish, dark cherry finish, black cherry finish, or a standard light finish.&#60;/p&#62;&#10;&#60;p&#62;You also have your choice of a US made tea chest (with the front slide button) or an imported tea chest (with the front swing latch). Very similar in styles, the USA Made tea chests are made from a higher quality solid maple wood than our imported chest (made from pine wood).&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;This Tea Chest Includes:&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;2 - &#60;a href=&#34;../twinings-indian-spiced-chai-20-tea-bags.html&#34;&#62;Chai&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;../twinings-chai-tea-decaffeinated.html&#34;&#62;Decaffenianted Chai&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;../twinings-cinnamon-apple-breakfast-20-tea-bags.html&#34;&#62;Spiced Apple Chai&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;../twinings-chai-tea-ultra-spice.html&#34;&#62;Ultra Spice Chai&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;../twinings-chai-tea-pumpkin-spice.html&#34;&#62;Pumpkin Spice&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;2 - &#60;a href=&#34;../twvatea25tea.html&#34;&#62;French Vanilla&#60;/a&#62;&#10;&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;p&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;*Please note: Substitution may occur according to availability.&#60;/strong&#62;&#60;/p&#62;&#10;&#60;p&#62;We also offer &#60;a href=&#34;../emptyteachests.html&#34;&#62;empty tea chests&#60;/a&#62; from $26.29.&#60;/p&#62;&#10;&#60;p&#62;Choose a &#60;a href=&#34;../engraving-plates.html&#34;&#62;brass engraving plate&#60;/a&#62; to personalize the chest. Call for special pricing for larger orders.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Tea Chest Dimensions:&#60;/strong&#62; 12.5&#34; Length, 2.375&#34; Depth, 3.5&#34; Height, 8&#34; Width&#60;/p&#62;&#10;&#60;p&#62;Compartment dimensions are 2.75&#34; W x 3.5&#34; L&#60;/p&#62;&#10;&#60;p&#62;&#60;span style=&#34;color: red;&#34;&#62;&#60;strong&#62; We are in the process of changing the latches on the tea chests. You may receive the one pictured or a new one with the hidden magnetic closure. Thanks for understanding during this transitional period. &#60;/strong&#62;&#60;/span&#62;&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>11.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Chests</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Decaffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Filled, Standard</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Twinings</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Twinings Herbal Tea - Winter Spice - 20 count</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$4.98</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        Winter Spice is a Twinings Herbal Tea that kind of reminds you of a nice steamy cup of hot spiced cider. This aromatic chamomile tea will warm your heart with the great taste of apple combined with the fragrant spices cinnamon, cardamom, and clove. Sure to be a favorite during the winter.&#60;p&#62;&#60;strong&#62;Net Weight:&#60;/strong&#62; 1.41 ounces (40 grams)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62;Camomile, Natural Apple Flavour with Other Natural Flavours, Cinnamon, Cardamom, Clove&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>12.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>20ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Herbal</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Christmas Tea, Herbal Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Twinings</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Holiday Tea Sampler - 1 ounce Pouches of 5 Seasonal Flavor Loose Leaf Teas</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$8.47</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;Perfect for when you can't decide on a tea, or want to try something new, these English Tea Store sampler packs should do the trick.  Each sampler pack comes in a resealable pouch that contains 1 ounce of loose leaf tea&#60;/p&#62;&#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;b&#62;Each Holiday Tea sampler pack comes with 1 ounce each of our favorite loose teas for the holiday season, including:&#60;/b&#62;&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;&#60;a href=&#34;/vienna-egg-nog-flavored-black-loose-leaf-tea.html&#34;&#62;Vienna Egg Nog&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;/swiss-hot-chocolate-flavored-black-loose-leaf-tea.html&#34;&#62;Swiss Hot Chocolate&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;/peppermint-matcha-green-loose-leaf-tea.html&#34;&#62;Peppermint Matcha&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;/flbltealolet.html&#34;&#62;Holiday Spice&#60;/a&#62;&#60;/li&#62;&#10;&#60;li&#62;&#60;a href=&#34;/loose-leaf-tea-vanilla-chai.html&#34;&#62;Vanilla Chai&#60;/a&#62;&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;Each pouch of loose tea is resealable.&#60;/p&#62;&#10;&#60;p&#62;&#60;b&#62;Please Note:&#60;/b&#62; Substitutions may be made according to availability.&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>13.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>Sri Lanka</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Net Weight</name>
+          <value>
+           <string>1oz (28.3g)</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>5oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Assortment</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Assortments, Black Tea, Chai Tea, Christmas Tea, Flavored Black Tea, Flavored Green Tea, Green Tea, Japanese Green Tea, Matcha Tea, Mint Tea, Vanilla Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Taylors of Harrogate Spiced Christmas Loose Leaf Tea Tin - 4.4oz (124g)</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$12.00</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        This tea was created by Taylors' master tea blenders especially for the Yuletide season, but has proved to be popular all year round. It is a blend of black China teas, with tangy lemon peels, fruity orange peels, cinnamon and safflower petals that give it a truly special flavor that warms the soul on cold winter days. A warm and spicy tea, it is best drunk without milk, although adding honey can enhance the taste even more. This Item comes with an attractive re-usable tin.&#60;p&#62;&#60;strong&#62;Net Weight:&#60;/strong&#62; 4.4 ounces (124 grams)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; Tea, Lemon and Orange Peels, Cinnamon Pieces, Safflowers, Natural and Nature Identical Flavourings&#60;/p&#62;&#10;&#60;i&#62;&#60;a href=&#34;/taylorsofharrogate-history.html&#34; target=&#34;_blank&#34;&#62;History of Taylors of Harrogate&#60;/a&#62;.&#60;/i&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>14.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4.4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Christmas Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Taylors of Harrogate</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Twinings Chai Latte K-Cups - 12 count</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$14.50</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;Now available for your Keurig K-Cup coffee brewer, Twinings' Chai Latte K-Cups in a 12 count package.&#60;/p&#62;&#10;&#60;p&#62;This blend by Twinings combines the finest black tea and spices with nonfat milk and just a touch of sweetness to give you a warm, soothing aroma and smooth, spicy taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;K-Cup Net Weight:&#60;/strong&#62; 0.53 ounces (15 grams)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; Chai Tea (Black tea, Natural Chai, Cinnamon and Ginger Flavours with other natural flavours, Cardamom, Clove), brown cane sugar, nonfat milk solids, cream&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Contains less than 2% of : &#60;/strong&#62; Stevia Leaf Extract, Sodium Caseinate, Sodium Aluminosilicate, Disodium Phosphate&#60;/p&#62;&#10;&#60;p&#62;Keurig Certified, works with any single serve brewer.&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>15.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United States</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Net Weight</name>
+          <value>
+           <string>6.35oz (180g)</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>12ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea K-Cups</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Chai</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Chai Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Twinings</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Santa's Milk &#38; Cookies Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $6.02</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;T'was the night before Christmas, when all through the house, not a creature was stirring - except for old St. Nick as he stirred a dash of sugar into his hot cup of tea, left out for him by a thoughtful child in place of the traditional milk and cookies. Sure, this may be our fantasy version of the famous Christmas eve tale, but hey, we're a tea company.&#60;/p&#62; &#10; &#10;&#60;p&#62;That said, considering the volume of milk Santa drinks on Christmas night, it'd do him well to replace the odd glass with a cup of antioxidant rich, high-grown black tea. This is especially true when the blend includes sumac berries, thought be effective in regulating cholesterol and reducing blood sugar, and red plum petals, thought by some practitioners of Chinese medicine to help treat gastritis and gastric ulcers. &#10;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea, Sumac berries, Cornflower + Safflower + Red plum petals, Natural flavors (organic compliant).&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>16.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Sangria Herbal Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $4.72</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;The Roman Empire is responsible for a great deal of things still widely enjoyed to this day, bridges. roads. sangria. Sangria? Sic amica mea. (That means &#34;yes, my friend&#34; in Latin.) It is believed the ancient Romans inadvertently invented Sangria through the practice of adding wine to water to disinfect drinking water as they expanded their territory. Fruit was probably added later, as a way of masking the flavor of wine that may have soured during their long voyages of discovery.&#60;/p&#62; &#10; &#10;&#60;p&#62;As time marched on, Sangria came to be known as the de facto beverage of Spain and Portugal. To this day, the mixture of wine and fruit is so popular the European Union set an official definition of the drink, to ensure people get what they paid for. According to EU law, Sangria is: a drink obtained from wine, aromatized with the addition of natural citrus-fruit extracts or essences, with or without the juice of such fruit and with the possible addition of spices.&#60;/p&#62; &#10;&#60;p&#62;Delicious. We fell in love with Sangria over tapas in Seville en route to Egypt during one of our herb-buying missions. Naturally, once we'd secured the herbs we were looking for; we decided to incorporate them into a blend commemorating the experience. The resulting herbal tea, Sangria, blends Egyptian hibiscus blended with apple, rosehips and rich red slices of beets, for a warm, deep red, winy character. From ancient Rome to your teapot, Sangria has quite the tale to tell.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;None - Caffeine Free Herb and Fruit &#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; Low. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Apple + Hibiscus + Rosehip + Beet pieces.&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>17.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Herbal</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Fruit Flavored Tea, Herbal Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Candy Cane Burst Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $6.10</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Kids have loved candy canes for a long, long time. According to legend, the peppermint variety most associated with the holidays was conceived in 1670 by the choirmaster of Cologne Cathedral. Looking for a way to quiet children down during long church services, he asked a local confectioner to create the sweet peppery sticks as a sort of pacifier.&#60;/p&#62; &#10; &#10;&#60;p&#62;The candy was a hit. Soon candy canes could be found in sweet shops throughout Europe, making their way to North America sometime in the early 19th century.&#60;/p&#62; &#10; &#10;&#60;p&#62;These days, no Christmas Tree is complete without at least a good handful of red and white canes hanging from the boughs, waiting to be savored on Christmas morning. And now, thanks to Candy Cane Burst black tea, you've got the perfect beverage to pair with them.&#60;/p&#62; &#10; &#10;&#60;p&#62;Crafted using our proprietary blend of high-grown, seasonal black teas, Candy Cane Burst is made with real pieces of candy for a real blast of sweet mint. Serve this tea with a candy cane as a stir stick - Santa would approve. Tastes like Christmas morning!&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea, Peppermint, Candy cane peices*, Camomile + Cornflower petals, Strawberry leaves, Natural flavors (organic compliant). (*Candy cane: Sugar, Corn syrup, Peppermint oil, Titanium dioxide, Red 40)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>18.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Christmas Blend Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $5.40</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;The snow is falling, carolers are at the door. the children are nestled snug in their beds. it must be Christmas! It's that time of year when we hang out with family and friends, exchange gifts and eat and drink way more than we ever intended. It also just so happens to be the best time of year for enjoying a nice hot cup of spiced tea.&#60;/p&#62; &#10; &#10;&#60;p&#62;TheSpiced beverages and the holiday season go way back. Legend has it that the tradition got its start in Europe when a German wine vendor, looking to put a few extra pieces of silver in his pocket, tried to find a way to sell off his older stock before Christmas eve. Helping his wife prepare that evening's meal, he struck upon the idea of brewing his wine with the spices she was using in the kitchen.&#60;/p&#62; &#10; &#10;&#60;p&#62;TheThe next morning, before heading out to market, the wine merchant grabbed his wife's largest cooking pot and a bag of spices and headed to market. Once he got to his stall, he started a roaring fire, filled the pot with wine and added the spice. Within minutes, the merchant next to him, a fishmonger, came over to ask him what the heavenly smell was emanating from his stall. The wine merchant ladled out two cups of the wine and the two men gave it a sip. Both found it delicious - soothing, spicy and warming. Within minutes the merchant had a lineup stretching down the street and to this day, mulled wine is available at every Christmas market in Europe.&#60;/p&#62; &#10; &#10;&#60;p&#62;TheIn keeping with the old tradition, we're proud to offer this exceptional tea blend based on an old mulled spice recipe our Master Blender picked up on his travels. We've blended the spice with a high grown Ceylon tea and added some jolly Christmas confetti to help keep things merry. Here's to the holidays!&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea, Candy*, Cinnamon, Clove, Jasmine petals, Natural flavors (organic compliant) (*Candy: Sugar, Rice flour,Vegetable oil,Corn starch, Arabic+Cellulose gum,Color R,Confectioner glaze, Carrageenan, Soy lecithin, Red#40, Yellow#5+#6, Blue#1 dye)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>19.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Nutcracker Flavored Rooibos Tea  - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $5.93</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Proving that success doesn't always happen overnight, the Nutcracker, masterpiece of famed composer Pyotr Illyich Tchaikovsky garnered mostly negative reviews following its debut performance in St. Petersburg on the 18th of December, 1892. The performance, which stretched well past Midnight, was called &#34;insipid&#34;, &#34;lopsided&#34; and &#34;ponderous&#34; by unimpressed Russian critics. Now, well more than a century later, the ballet is so well enjoyed that for many, the Christmas season simply isn't complete without taking in a performance.&#60;/p&#62; &#10; &#10;&#60;p&#62;The tale, which focuses on the adventures of a little girl, Clara, her brother Fritz and a magical nutcracker that comes to life, takes viewers on a magical journey starting at home in a 19th century German chateau and ending most famously in the Land of Sweets, in a far away kingdom known as Confiturembourg, ruled by the beautiful Sugar Plum fairy. At this point in the story, the children, as well as the audience, are enchanted by the kingdom's various inhabitants - Chinese Tea dancers, Russian Candy Cane dancers and Danish Marzipan Shepherdess dancers, among others.&#60;/p&#62; &#10;&#60;p&#62;Now, we wouldn't be Master Tea blenders if we didn't think that list of performers sounded like a fabulous recipe for a deliciously soothing winter tea blend. So to honor Tchaikovsky's memory, we've decided to blend exactly that, a fabulous tea guaranteed to put a smile on your face even on the longest of winter's nights. Based on a luxury Rooibos, we've added the flavors of marzipan and fruit finished off with delicate snowflake candy quins and tiny silver ball candies for a dash of added theatrical flair. Like the ballet itself, this is one performance you don't want to miss.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;None.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; Medium. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Rooibos, Papaya pieces, Candy*, Almond pieces, Natural flavors (organic compliant). (*Candy: Icing Sugar, Modified Corn Starch, Corn starch, Fractionated Palm Kernal Oil, Cellulose Gum, Soya lecithin, Vanillin, Polysorbate 60, Confectioner's Glaze, Sugar, Wheatstarch, Maltodextrin, Gum Arabic, Shellac, Colourings ,Silver balls E174.)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>20.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Rooibos Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Cinnamon Bun Chai Flavored Rooibos Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $5.93</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Is there any aroma more inviting, more mouth-watering, more I-need-one-now, than that of hot cinnamon buns fresh from the oven? (We can answer that for you: No!) The cinnamon bun's only downfall is their addictive quality and high calorie count. Boo. Thankfully, we've developed a way to enjoy the flavour of the world's favorite baked treat that is actually good for you. Yay!&#60;/p&#62; &#10; &#10;&#60;p&#62;The ultimate in warmth and relaxation, Cinnamon Bun Rooibos Chai is not only delicious, it's packed with antioxidants, polyphenols and essential minerals. What's more, it's naturally caffeine-free. This makes it perfect for easing into a morning, wiling away an afternoon, or settling into your evening. (Essentially, you can't go wrong.)&#60;/p&#62; &#10;&#60;p&#62;To make this fabulous chai, we've taken pure Cederberg rooibos and blended it with a healthy dash of cinnamon, (a staple of South African cuisine,) ginger, cardamom, pepper, cloves and more for a cup that delivers all the flavour of a cinnamon bun, with none of the guilt. (You can thank us later.)&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;None.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; Low. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Rooibos, Cinnamon, Ginger, Cardamom, Black + White pepper, Clove, Nutmeg, Star Anise..&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>21.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Herbal</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Chai Tea, Herbal Tea, Rooibos Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Organic Sugar Plum Pudding Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.60 - $8.11</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Tchaikovsky's Christmas classic 'The Nutcracker' introduced the world to what has become one of ballet's best-known sequences: the dance of the Sugarplum Fairy. Thanks to his famed score and beautiful retelling of this ancient tale, the Christmas season can't be called complete without taking in a performance of this stunning piece of dance and pageantry.&#60;/p&#62; &#10; &#10;&#60;p&#62;We've done our best to capture the grace and style of Tchaikovsky's piece through the creation of this mouth-watering, organic black tea blend. Inspired by a performance of the Nutcracker, put on by his daughter's own ballet school many years ago, our Master Blender carefully concocted this tea to capture all the wonder and delight of the holiday season.&#60;/p&#62; &#10; &#10;&#60;p&#62;Like the intricate music that drives the piece, this skillfully crafted blend combines high-grown, seasonal Ceylon teas with tart pieces of dried fruit, delicate flower petals and all-natural flavoring for a cup that's pure magic. Brew a pot today and drink in the majesty and wonder of the holiday season. The perfect finish for the perfect Christmas get-together.&#60;/p&#62; &#10; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea*, Cornflower petals*, Blueberry pieces*, Raspberry pieces*, Natural flavors. *Organic Certified Organic by Pro-Cert Organic Systems (Organic Equivalency with COR, NOP, EU, JAS&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>22.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Organic, Vegan</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Holiday Winter Spice Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $6.02</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;On a freezing afternoon or evening, there's nothing like curling up in front of a roaring fire with your hands wrapped around a hot mug of spicy winter goodness. While these beverages have traditionally been wine based, we favor our black tea based Winter Spice blend. This fabulous blend of cinnamon, cloves, dried fruit, herbs and spices is sure to get your taste buds fired up and your mind dreaming of warmer climes. On the nose, delightful notes of thick spice delight while the cup offers cinnamon, pepper and hints of mild citrus. Joyless winter day? Bring it on!&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea, Cinnamon, Orange pieces, Lime + Blackberry leaves, Cloves, Natural flavors(organic compliant).&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>23.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Frosty Plum Spice Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $6.18</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;For many of us, when we hear the word &#34;heirloom&#34;, we think of treasured pieces of antique furniture, well-worn gold watches or hand-me-down diamond rings. For others, tea lovers in particular, &#34;heirloom&#34; naturally forms part of the term &#34;heirloom recipe&#34;, and takes on a much more gastronomical meaning. So, why are we talking about heirloom recipes? Good question. The answer is that this blend, Frosty Plum Spice, was created by our Master Blender in homage to an old family recipe passed down by his Dutch ancestors. Legend has it that his grandmother, or Oma, having grown up on an orchard back in the old country, developed a recipe for spiced plum tarts as a way to use up fruit leftover from market day in the nearby village.&#60;/p&#62; &#10; &#10;&#60;p&#62;So how does the old recipe hold up as a tea? There's only one way to find out, which is to taste it, which we've done extensively. Our verdict? Lekker! (That's &#34;delicious&#34; in Dutch.) The blend offers lengthy notes of fruit, tempered by natural cinnamon and ginger to brew a cup that can be enjoyed hot on cold winter's days, or chilled over ice on a hot summer's morning. Either way, brew a pot today and raise a cup to the days and recipes of yore. Proost!&#60;/p&#62; &#10; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Black tea, Apple pieces, Cinnamon, Ginger, Cloves, Amaranth + Safflower petals, Natural flavors (organic compliant).&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>24.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Cranberry Apple Herbal Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $4.84</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Our Cranberry Apple Herbal tea is delicious both hot or iced. It has a unique flavor profile with the delicious blend of cranberry, fruit and apple flavors combined with the tartness of the various dried fruits. &#60;/p&#62; &#10;&#60;p&#62;If you are a skier or enjoy evenings in a rustic cabin around a roaring fireplace, put a pot of this tea on. After it has brewed pour into 3 quart cooking pot, add a bottle of deep full flavored red wine, a couple slices of orange and a stick of cinnamon, about 10 cloves - simmer for 15 minutes - add sugar to taste - now you have the perfect gluwien - Incredible!&#60;/p&#62; &#10;&#60;p&#62;For a summer time drink Cranberry Apple iced is hard to beat. It is refreshing and thirst quenching and not overly sweet. For formal times garnish the glass with a slice of orange and a stick of cinnamon - for non-formal times pour it into your glass and enjoy it gulp after gulp! If you have small children use the Cranberry Apple tea to make popsicles - they taste great and contain very little sugar.&#60;/p&#62; &#10;&#60;p&#62;By virtue of the fact that these blends do not contain any tea and are a special blend of fruits and herbs - they are caffeine free! An additional benefit is that these 'teas' contain Vitamin C. What could be better - a healthy drink that tastes GREAT!&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;None - Caffeine Free Herb and Fruit &#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62;Apple pieces, Hibiscus petals, Rosehip + Elderberry + Cranberry pieces, Natural flavors (organic compliant).&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>25.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Herbal</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Fruit Flavored Tea, Herbal Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Tea of the Month 15% Off.gif</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>German Gingerbread Flavored Black Tea - Loose Leaf</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.07 - $6.02</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;Germany takes their gingerbread seriously, many of the bakeries keep their gingerbread recipes a closely guarded secret. Luckily, we got one baker to give us a list of ingredient which we used to create this delicious blend of German Gingerbread tea. It is bright in the cup and brimming with spicy gingerbread notes, this tea will have you saying ja bitte (yes, please) in no time.&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Caffeine content:&#60;/b&#62;Medium&#60;/p&#62; &#10; &#10;&#60;p&#62;&#60;b&#62;Antioxidant Content:&#60;/b&#62; High. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;  &#10;  &#10;&#60;p&#62;&#60;b&#62;Ingredients: &#60;/b&#62; Black tea, Cinnamon, Star anise, Cocoa beans, Ginger, Safflower petals, Camomile white, Natural flavors(organic compliant).&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>26.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>4oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Harney and Sons Tea - White Christmas - 20 count</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$10.00</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        Nothing beats sitting in front of a fire on a cold winter day with a delicious cup of White Christmas Tea by Harney &#38;amp; Sons. This fantastic blend features almonds, cardamom, and vanilla accented by white chamomile flowers for an amazing mix of flavors that you are sure to love!&#60;p&#62;Harney and Sons Premium Tea - White Christmas contains 20 individually wrapped sachets per tin.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Net Weight:&#60;/strong&#62; 1.4 ounces (39 grams)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ingredients:&#60;/strong&#62; White Tea blended with Almonds, Vanilla and Cardamon, accented by white Chamomiles&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>27.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United States</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>50ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Holiday Spiced</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Christmas Tea, White Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Harney and Sons</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Tea Chests with Tea - Stash's Holiday Cheer #1</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$49.89 - $59.99</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;This Tea Chest Includes 8 different types of individually wrapped Stash teabags (10 tea bags per flavor). Choose your desired tea chest finish: cherry finish, dark cherry finish, black cherry finish, or a standard light finish.&#60;/p&#62;  &#10;&#60;p&#62;You also have your choice of a US made tea chest (with the front slide button) or an imported tea chest (with the front swing latch). Very similar in styles, the USA Made tea chests are made from a higher quality solid maple wood than our imported chest (made from pine wood).&#60;/p&#62;  &#10;&#60;p&#62; &#60;strong&#62;This Tea Chest Includes:&#60;/strong&#62;&#60;/p&#62;&#10;&#60;ul&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stchevecafrh.html&#34;&#62;Christmas Eve&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stchmobltea1.html&#34;&#62;Christmas Morning&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stash-holiday-chai-black-tea-bags.html&#34;&#62;Holiday Chai&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/1stash-8222.html&#34;&#62;Peppermint&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stash-christmas-in-paris-herbal-tea-bags.html&#34;&#62;Christmas in Paris&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stash-pumpkin-spice-decaf-tea-bags-18-count.html&#34;&#62;Pumpkin Spice Decaf&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stash-licorice-spice-herbal-tea-bags-20-count.html&#34;&#62;Licorice Spice&#60;/a&#62;&#60;/li&#62;  &#10;&#60;li&#62;&#60;a href=&#34;/stash-cinnamon-vanilla-herbal-tea-bags.html&#34;&#62;Cinnamon Vanilla&#60;/a&#62;&#60;/li&#62;  &#10;&#60;/ul&#62;  &#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;*Please note: Substitution may occur according to availability.&#60;/strong&#62;&#60;/p&#62;&#10;&#60;p&#62; We also offer &#60;a href=&#34;/emptyteachests.html&#34;&#62;empty tea chests&#60;/a&#62; from $26.29.&#60;/p&#62;&#10;&#60;p&#62;Choose a &#60;a href=&#34;/engraving-plates.html&#34;&#62;brass engraving plate&#60;/a&#62; to personalize the chest. Call for special pricing for larger orders.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Tea Chest Dimensions:&#60;/strong&#62; 12.5&#34; Length, 2.375&#34; Depth, 3.5&#34; Height, 8&#34; Width&#60;/p&#62;&#10;&#60;p&#62;Compartment dimensions are 2.75&#34; W x 3.5&#34; L&#60;/p&#62;&#10;&#60;p&#62;&#60;font color=&#34;red&#34;&#62;&#60;strong&#62; We are in the process of changing the latches on the tea chests. You may receive the one pictured or a new one with the hidden magnetic closure. Thanks for understanding during this transitional period. &#60;/strong&#62;&#60;/font&#62;&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>28.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United States</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Chests</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Filled, Standard</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in America.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Stash</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Swiss Hot Chocolate Flavored Black Tea - Loose Leaf - Sampler Size - 1oz</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.14</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62;&#10;&#60;p&#62;First time trying English Tea Store's Swiss Hot Chocolate Flavored Black Loose Leaf Tea? Try our Sample Size of 1 ounce.&#60;/p&#62;&#10;&#60;p&#62;The Swiss Hot Chocolate Flavored Black Tea blend from English Tea Store is a delightful blend of high grown Ceylon tea, real rich cocoa beans and white camomile petals for an added floral lift.&#60;/p&#62;&#10;&#60;p&#62;The 3 high-grown districts of Sri Lanka, Nuwara Eliya, Dimbula and Uva, produce flavorful teas that have the classic Ceylon tea character which is noted by floral bouquet and flavor notes, touches of mild astringency, bright coppery color and, most importantly, perfect for use as the base tea of our flavored teas. Dimbula and the western estates of Nuwara Eliya have a major quality peak during Jan/Feb, whereas Uva and the eastern estates of Nuwara Eliya have their peak in July/Aug. This dual peak period allows us to buy the best for our flavored tea blends several times during the year, ensuring top quality and freshness. Using flavoring oils, not crystals, gives the tea drinker an olfactory holiday before indulging in a liquid tea treat.&#60;/p&#62;&#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;Contents loose leaf tea net weight 1 ounces&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Medium - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of black tea steeped in boiled water for 5 minutes will contain between 27 to 35 milligrams of caffeine. An equal sized cup of coffee will contain between 80 - 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - polyphenols by dry weight. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>29.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>Sri Lanka</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Net Weight</name>
+          <value>
+           <string>1oz (28.3g)</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>1.0oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Chocolate</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Ahmad Tea London Selection -  40-Count Assorted Tea Bags</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$15.50</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;p&#62;Inspired by London's iconic skyline, this collection contains some of our most popular teas in an attractive boxed set. There's something for everyone's taste with a selection of black tea, green tea, and even exotic fruit teas. English Breakfast to get your day started, aromatic notes of bergamot in Earl Grey, or try our own English No1. Jasmine Romance features floral fragrances, Green Tea Pure contains our finest Chinese leaves, and Mint Mystique adds fresh mint herbs to a green tea base. Fruity refreshment comes courtesy of Peach &#38;amp; Passion Fruit, Lemon Lime Twist that delivers a zesty energising kick. A real treasure for any tea lover to explore the quality of Ahmad Tea.&#60;/p&#62;&#10;&#60;p&#62;Net weight: .88 ounces (25 grams)&#60;/p&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>30.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>United Kingdom</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>25ct</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Tea Bags</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>English Afternoon</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Afternoon Tea, British Favorites, Christmas Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Made in the UK.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>Ahmad</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Vienna Egg Nog Flavored Black Tea - Loose Leaf - Sampler Size - 1oz</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$2.00</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;First time trying English Tea Store's Vienna Egg Nog Flavored Black Loose Leaf Tea? Try our Sample Size of 1 ounce.&#60;/p&#62;&#10;&#60;p&#62;The Vienna Egg Nog Flavored Black Tea blend from English Tea Store is based on the rum-based versions of the early Americas. Delightfully sweet with notes of caramel and ginger, this blend is delicious on it's own, or with a splash of real rum.&#60;/p&#62;&#10;&#60;p&#62;Eggnog, the popular spiced, milk-based holiday beverage is thought to descend from an ancient European drink called Posset. The drink was made by boiling milk and adding wine or ale, which would cause it to curdle. Spices, typically nutmeg and cinnamon were then added to fill out the flavor.&#60;/p&#62;&#10;&#60;p&#62; During the Middle Ages, Posset was generally consumed to as a remedy for the common cold and to ease general bodily aches and pains. By the 13th century, it is said that monks began adding eggs to their Posset, an innovation that would ultimately lead to the creation of Eggnog, centuries later.&#60;/p&#62;&#10;&#60;p&#62;During the 18th century, a variation of the drink is thought to have crossed the Atlantic to what were then still British Colonies in the Americas. Initially, cheap Rum from the Caribbean was used to prepare the beverage. After the Revolutionary War however, with their supply of Rum cut off, American's blending Eggnog with whiskey and bourbon. Around this time it also came to be associated with the holidays, a tradition that continues to this day.&#60;/p&#62;&#10;&#60;p&#62;&#60;a href=&#34;/howtomaketea.html&#34;&#62;How to Make Tea&#60;/a&#62;&#60;/p&#62;&#10;&#60;p&#62;Contents loose leaf tea net weight 1 ounces&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Medium - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of black tea steeped in boiled water for 5 minutes will contain between 27 to 35 milligrams of caffeine. An equal sized cup of coffee will contain between 80 - 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - polyphenols by dry weight. The longer you steep your tea the more polyphenols will be extracted. (Test results based on 5 minutes steeping time. Polyphenol percentages may fluctuate with lot, grade of tea, testing method, temperature of water and freshness of tea). More antioxidants are extracted from tea (L. Camellia Sinesis) the longer it is brewed. And the more tea is used, the greater the antioxidant benefit.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>31.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>Sri Lanka</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Christmas</string>
+          </value>
+         </member>
+         <member>
+          <name>Net Weight</name>
+          <value>
+           <string>1oz (28.3g)</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>1.0oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Caramel, Cinnamon, Ginger</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Black Tea, Christmas Tea, Flavored Black Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+    <value>
+     <struct>
+      <member>
+       <name>title</name>
+       <value>
+        <string>Peppermint Matcha Green Tea - Loose Leaf - Sampler Size - 1oz</string>
+       </value>
+      </member>
+      <member>
+       <name>price</name>
+       <value>
+        <string>$4.46</string>
+       </value>
+      </member>
+      <member>
+       <name>desc</name>
+       <value>
+        <string>&#13;&#10;        &#60;div class=&#34;pbody&#34;&#62; &#60;p&#62;First time trying English Tea Store's Peppermint  Matcha Green Loose Leaf Tea? Try our Sample Size of 1 ounce.&#60;/p&#62; &#60;p&#62;The Peppermint Matcha Green Tea blend from English Tea Store is a smooth, astringent powdered green tea mixed with aromatic layers of mint.  According  to  health  folklore  dating  back  to  at  least  the  time  of  Pliny,  people  have  long  been consuming  peppermint  to help combat  a  variety of ailments including  nausea, abdominal  pain,  fatigue  and  more.&#60;/p&#62;&#10;&#60;p&#62;  In  many  ways,  Matcha  produces  a  similar  effect.  Originally  produced  as  the  key  component  of  the  Japanese  tea  ceremony, Matchas were designed to instill a feeling of calm serenity when enjoyed. The rigid structure of the ceremony it featured in was designed to spiritually transport the  drinker from the  general  hustle and bustle of life  to a  place of quiet serenity.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Hot tea brewing method:&#60;/strong&#62; Bring filtered or freshly drawn water to a rolling boil and let cool to roughly 180 F/82 C. Place approximately half a teaspoon of Peppermint Matcha in your cup. Infuse with 8 ounces/250 milliliter of water, whisk briskly and enjoy.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Ceremonial Matcha:&#60;/strong&#62; Please note that in order to brew Ceremonial Matcha you will need a set of Japanese tea ceremony tools. (Bowls, scoops, and a whisk).&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;Prepare tea bowls by warming them with boiled water&#60;/li&#62;&#10;&#60;li&#62; Prepare your Peppermint Matcha whisk by soaking the tip in the boiled water in one of the bowls for about 10 seconds&#60;/li&#62;&#10;&#60;li&#62; Pour the water out and dry the bowl with a paper towel&#60;/li&#62;&#10;&#60;li&#62; Using your teaspoon, add 2 scoops of Peppermint Matcha to each bowl&#60;/li&#62;&#10;&#60;li&#62; Pour 1/3 of a cup of your hot water into each bowl&#60;/li&#62;&#10;&#60;li&#62; In a slow m motion, submerge any loose bits of Peppermint Matcha that may be floating on the surface of the tea&#60;/li&#62;&#10;&#60;li&#62; Whisk the tea more briskly in a back and forth motion until the surface of the Peppermint Matcha becomes frothy&#60;/li&#62;&#10;&#60;li&#62; Consume immediately. (In Japan, it is customary to drink the entire bowl in 3 quick slurps)&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;&#60;strong&#62;Hot matcha latte brewing methods - fast method:&#60;/strong&#62; Use 1/2 teaspoon (1 gram) per 8 ounce (225 milliliter) serving. Add 1/2 teaspoon (1 gram) to base of cup and add 2 ounces of hot water &#38;amp; mix vigorously to make a smooth paste-like liquid. Top with freshly steamed milk (or substitute) and sweeten to taste. (Try maple syrup or honey)&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Iced matcha latte brewing methods:&#60;/strong&#62; Use 1/2 teaspoon (1 gram) per 8 ounce (225 millliliter) serving. Add 1/2 teaspoon (1 gram) to base of cup and add 2 ounces of hot water and mix vigorously to make a smooth paste-like liquid. Top with freshly steamed milk (or substitute) and sweeten to taste. Cool for 30-60 minutes and pour over ice.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Slow brewed Iced Matcha: Place 3 level teaspoons of Peppermint Matcha into a glass pitcher. Fill pitcher with ice and let sit. After a few hours, ice will have melted and tea brewed. Stir vigorously to ensure the Peppermint Matcha goes into suspension. Pour over ice and enjoy.&#60;/strong&#62;&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Matcha Ginger Tea with crushed ice and lime:&#60;/strong&#62; (Ingredients – 2 level teaspoons of Peppermint Matcha, 2 tablespoons of chopped ginger,1/2 cup ice, juice of 1/2 lime, dash of honey)&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62; Blend ice, Peppermint Matcha and ginger in a blender until ice is crushed&#60;/li&#62;&#10;&#60;li&#62; Pour into a chilled glass&#60;/li&#62;&#10;&#60;li&#62; Add lime juice and honey to taste&#60;/li&#62;&#10;&#60;br&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;You will need a few items to prepare Peppermint Matcha Lattes:&#60;/p&#62;&#10;&#60;ul&#62;&#10;&#60;li&#62;Matcha measure or tea spoon&#60;/li&#62;&#10;&#60;li&#62; 16 ounce stainless steel carafe&#60;/li&#62;&#10;&#60;li&#62; Espresso maker&#60;/li&#62;&#10;&#60;li&#62; Peppermint Matcha&#60;/li&#62;&#10;&#60;li&#62; Flavoring syrup&#60;/li&#62;&#10;&#60;li&#62; Milk 2% (Almond, soy or rice milk)&#60;/li&#62;&#10;&#60;li&#62; Long stir spoon&#60;/li&#62;&#10;&#60;/ul&#62;&#10;&#60;br&#62;&#60;p&#62;To start, measure  approximately 15 ounces  (450 milliliters) of  milk  into  stainless  steel  carafe.  Add  1  teaspoon  or  2  matcha  measures  of Peppermint Matcha. Stir with long spoon to combine with milk. Add 1 ounce (30 milliliter) of flavoring syrup. Froth vigorously with frothing wand from espresso machine. When blend is smooth with micro bubbles, pour into cup. You may substitute 2 tablespoons of either Maple syrup, Agave syrup or Honey for the flavoring syrup to taste.&#60;/p&#62;&#10;&#60;p&#62;Contents loose leaf tea net weight 1 ounces&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Caffeine content:&#60;/strong&#62; Low - This tea contains natural caffeine found in the L. Camellia Sinensis family. A cup of green tea steeped in boiled water for 5 minutes will contain between 22 to 29 milligrams of caffeine. An equal sized cup of coffee will contain between 80 – 100 milligrams of caffeine. Caffeine quickly becomes soluble in very hot water. If you wish to reduce the caffeine level in this tea, briefly rinsing the tea leaves in extremely hot water will reduce the caffeine content between 25-50% with only a minor effect on taste.&#60;/p&#62;&#10;&#60;p&#62;&#60;strong&#62;Antioxidant Content:&#60;/strong&#62; High - When consuming matcha you actually consume all the tea leaves. Scientific testing in Japan has indicated that on account of this fact the antioxidant benefit of matcha can be up to 5-9 greater then with normal green tea consumed in the conventional manner.&#60;/p&#62;&#10;&#60;/div&#62;&#13;&#10;            </string>
+       </value>
+      </member>
+      <member>
+       <name>image</name>
+       <value>
+        <string>32.jpg</string>
+       </value>
+      </member>
+      <member>
+       <name>ch</name>
+       <value>
+        <struct>
+         <member>
+          <name>Clearance</name>
+          <value>
+           <string>Non-Clearance</string>
+          </value>
+         </member>
+         <member>
+          <name>Country Of Origin</name>
+          <value>
+           <string>China</string>
+          </value>
+         </member>
+         <member>
+          <name>Season</name>
+          <value>
+           <string>Everyday</string>
+          </value>
+         </member>
+         <member>
+          <name>Net Weight</name>
+          <value>
+           <string>1oz (28.3g)</string>
+          </value>
+         </member>
+         <member>
+          <name>Size</name>
+          <value>
+           <string>1.0oz</string>
+          </value>
+         </member>
+         <member>
+          <name>Product Type</name>
+          <value>
+           <string>Loose Leaf Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Dietary Options</name>
+          <value>
+           <string>Caffeinated, Gluten Free</string>
+          </value>
+         </member>
+         <member>
+          <name>Flavor</name>
+          <value>
+           <string>Mint, Peppermint</string>
+          </value>
+         </member>
+         <member>
+          <name>Type</name>
+          <value>
+           <string>Flavored Green Tea, Green Tea, Matcha Tea, Mint Tea</string>
+          </value>
+         </member>
+         <member>
+          <name>Left Overlay Image</name>
+          <value>
+           <string>Gluten Free.png</string>
+          </value>
+         </member>
+         <member>
+          <name>Brand</name>
+          <value>
+           <string>English Tea Store</string>
+          </value>
+         </member>
+        </struct>
+       </value>
+      </member>
+     </struct>
+    </value>
+   </data>
+  </array>
+ </value>
+</param>
+</params>

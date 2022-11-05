@@ -1,0 +1,23 @@
+{
+    "name": "shasoft/console",
+    "description": "Shasoft Console",
+    "require": {
+    },
+	"homepage": "http://shasoft.com/article/klass_php_dlya_vyvoda_v_konsol_tsvetnogo_teksta",
+    "keywords": ["console", "output", "color","text","colors"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valery Shabanov",
+            "email": "dev@shasoft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Shasoft\\Console\\": "src"
+        }
+    },
+    "extra": {
+    }
+}
